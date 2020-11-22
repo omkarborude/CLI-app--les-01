@@ -29,6 +29,7 @@ function play(question, answer) {
     console.log("right!");
     score = score + 1;
     
+    
   } else {
     console.log("wrong!");
    
