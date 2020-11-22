@@ -1,4 +1,4 @@
-# CLI app
+# CLI Quiz app
 
 With the help of <<neogCamp>> I have created CLI quiz app using "NodeJS".
 
